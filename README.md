@@ -1,2 +1,2 @@
 # calc-with-js
-first project
+first project on vanilla javascript
